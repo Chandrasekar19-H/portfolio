@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+live link
 
-Template Name: Style
-Template URL: https://bootstrapmade.com/style-bootstrap-portfolio-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+https://chandrasekar19-h.github.io/portfolio/
