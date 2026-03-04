@@ -1,3 +1,4 @@
 live link
 
-https://chandrasekar19-h.github.io/portfolio/
+https://portfoliocj03.netlify.app/
+
